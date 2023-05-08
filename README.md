@@ -1,5 +1,5 @@
 # Node Js assignment
-![Screenshot (272)](https://user-images.githubusercontent.com/97036992/236785144-58373c2a-a85c-4c15-ab93-6b45fc814358.png)
+
 
 Outputs
  ![Screenshot (262)](https://user-images.githubusercontent.com/97036992/236784937-a634c367-979f-48c2-b3fa-b794aabbe705.png)
